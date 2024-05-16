@@ -15,6 +15,7 @@ I’m Volodymyr Hudzikevych, and I'm passionate about Java and Trading Strategy 
 - **Email**: volodymyrhudzikevych@gmail.com
 - **Telegram**: [Volodymyr](https://t.me/VoloHudz)
 - **Skype**: live:.cid.613922935ba3f7be
+- **Discord**: volohudz
 - **Whatsapp**: +380 99 552 6723
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
